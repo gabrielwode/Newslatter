@@ -15,7 +15,7 @@
     <header>
         <div class="top-bar">
             <div class="logo">
-                <img src="img/logo.png" alt="Tech Store logo" >
+                <img src="logo.png" alt="Tech Store logo" >
                 <h1>TechStore</h1>
             </div>
             <nav class="nav">
@@ -37,11 +37,11 @@
     <main class="container">
         <div class="product-details">
             <div class="product-gallery">
-                <img src="img/fone_destaque.png" alt="fone de ouvido Bluetooth">
+                <img src="fone_destaque.png" alt="fone de ouvido Bluetooth">
                 <div class="gallery-thumbnails">
-                    <img src="img/fone1.png" alt="Fone de ouvido Bluetooth">
-                    <img src="img/fone2.png" alt="Fone de ouvido Bluetooth">
-                    <img src="img/fone3.png" alt="Fone de ouvido Bluetooth">
+                    <img src="fone1.png" alt="Fone de ouvido Bluetooth">
+                    <img src="fone2.png" alt="Fone de ouvido Bluetooth">
+                    <img src="fone3.png" alt="Fone de ouvido Bluetooth">
                 </div>
             </div>
             <div class="product-info">
